@@ -1,0 +1,30 @@
+[
+  {
+    "objectID": "about.html",
+    "href": "about.html",
+    "title": "About",
+    "section": "",
+    "text": "This website is meant to archive academic and career achievements as a way to help future employers understand my offerings as a multifaceted individual.\nHome Page"
+  },
+  {
+    "objectID": "Projects.html",
+    "href": "Projects.html",
+    "title": "Projects",
+    "section": "",
+    "text": "Life cycle assessment sustainability analysis on e-readers vs. books (Fall 2024)\n\n  It appears you don't have a PDF plugin for this browser.\n  No worries... you can click here to download the PDF file.\n\nIn this project, I learned how to research and conduct a cradle-to-gate life cycle analysis including uncertainty analysis, using openLCA software.\n\n\nAnalysis on electric vehicles as a climate solution (Fall 2024)\n\n  It appears you don't have a PDF plugin for this browser.\n  No worries... you can click here to download the PDF file.\n\nThis was a research project aimed at recommendations for climate change mitigation involving transportation.\n\n\nESS 523A: Data Visualization\n\n\n\nLand Cover Map\n\n\nThis activity in ESS 523A delved deeper into practice with spatial data visualization, crucial in data science for understanding collected data and making informed decisions based on real-world scenarios. This data science practice also aided in making effective figures to display the values at hand.\n\n\nESS 330: Statistics in R\n\n\n\nLab 4: Plot showing crab carapace width\n\n\nFor this assignment, we used data on cutthroat trout and coastal giant salamanders from the Andrews Forest LTER facility and data on fiddler crabs from the Plum Island Ecosystem LTER. Statistical tests we conducted include: Chi-square analysis, t-tests (Welch two-sample, f-test, etc.), correlation assessments (Spearman test), distribution tests, Shapiro-Wilk normality test, ANOVA, Tukey HSD test, and linear regression models. Using all of these methods, we assessed measurements like crab carapace width by site, impact of water temperature on size, salamander lengths and weights, and trout lengths based on various factors. This lab was a great refresher on statistics, which was fuzzy for me. Understanding the function of each different statistical test and result was crucial in understanding analyses from subsequent labs and my semester project.\n\n\nESS 330: ML Tuning\n\n\n\nLab 8: Example of model evaluation to choosing the best fitting model and my thought process\n\n\nIn this lab, I worked off of what I had already done in other labs to perform further analysis and to get more practice with machine learning. I learned how to clean data and split it into training and testing data to prepare for fitting models. We tested 3 different models (log regression, decision tree, and random forest), ultimately deciding that the random forest model was the best choice due to its higher RSQ value and low RMSE value. We had been getting practice evaluating models throughout previous labs, but this comparison was really helpful for my understanding of how to choose the best model for a dataset. We got more practice creating workflows and manipulating hyperparameters to make the best possible model, which we then verified by collecting metrics and predictions to test performance and predictions on our test data. We then made two maps, one of the residuals and one of the predictions, and finally combining these into a single figure. This was a ton of new information and I learned a lot in this lab about model tuning, another new concept for me. With practice, I know this is a very powerful (and necessary) tool for data analysis.\n\n\nESS 330: Lightning-talk Presentations\n\n\n\nLab 11: Yellowstone Wolf Reintroduction presentation slides\n\n\nFinal presentation for semester project on wolf reintroduction in Yellowstone. We made a slide deck introducing our project, providing background information and our hypothesis and research question, explaining our methods, models, and results, and conclusions on our study and its importance for Yellowstone and for applications of similar conservation efforts in other parts of the world. We explained how this research can impact future studies, and how it served as a jumping-off point for Colorado’s wolf reintroduction initiative over the last few years. I presented the introduction, background research, and hypothesis, as well as talking about the importance of the study.\n\n\nESS 545 Emissions Inventory and Mitigation Analysis: Transportation in Los Angeles County (Spring 2025)\n\n\n\nEmissions Calculations for Various Fuel Types\n\n\n\n\n\nBusiness-As-Usual Emissions Projections for Different Fuel Types\n\n\nThis was a semester long project in a graduate greenhouse gas emissions inventory class where I created a customized function in R to calculate emissions for the transportation sector in Los Angeles County using public data on fuel types and amounts sold in the county. Then, using the calculations, I evaluated various methods of emissions reductions (such as increasing electric vehicle and biofuel usage) to project changes against business-as-usual scenarios up to 2050.\nHome Page"
+  },
+  {
+    "objectID": "Resume.html",
+    "href": "Resume.html",
+    "title": "Resume",
+    "section": "",
+    "text": "\\It appears you don't have a PDF plugin for this browser.\n\n  \\click here to download the PDF file.\\\\\n\n\\\nHome Page\n\n\n\n \n\n \n\n  \n    \n\n© 2025 Zoe Gagalis. All rights reserved\n\n   \n    \n       \n    \n    \nThis website is built with rstudio and github"
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Zoe Gagalis",
+    "section": "",
+    "text": "Thanks for visiting my website! My name is Zoe, I am a current graduate student at Colorado State University, pursuing a Professional Master’s degree in ecosystem science and sustainability, with a focus on greenhouse gas management. I will be graduating in 2026 and I am looking for work in corporate sustainability and conservation. Please browse my recent projects as well as my resume, Linkedin, and contact information."
+  }
+]
